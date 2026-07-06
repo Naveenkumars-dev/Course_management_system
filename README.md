@@ -1,1 +1,1 @@
-# legendary-enigma
+# course-management-system
